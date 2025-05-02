@@ -1,0 +1,30 @@
+Nume: Golgotiu
+Prenume: Andreea
+Anul de studii: 3
+Facultatea: ETTI
+Finantare: Buget
+Curs dorit: Programare Java
+
+Nume: Popescu
+Prenume: Maria
+Anul de studii: 2
+Facultatea: Automatica si Calculatoare
+Finantare: Buget
+Curs dorit: Programare C
+
+Nume: Ionescu
+Prenume: Ana
+Anul de studii: 4
+Facultatea: Instalatii
+Finantare: Buget
+Curs dorit: Programare C++
+
+Nume: Pop
+Prenume: Ion
+Anul de studii: 1
+Facultatea: Constructii
+Finantare: Buget
+Curs dorit: Programare C
+
+
+
